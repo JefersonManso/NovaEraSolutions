@@ -2,28 +2,21 @@
 
 Single Page Application (SPA) responsiva, criada para atender micro, pequenas e médias empresas que precisam de uma presença digital profissional, leve, rápida e personalizável.
 
-O projeto foi pensado para ser reutilizável em diferentes segmentos: serviços, comércio, tecnologia, saúde, educação e consultorias.
+O projeto foi pensado para ser reutilizável em diferentes segmentos: serviços, comércio, tecnologia, saúde, educação e consultorias. Projeto criado  por (IA) GOOGLE AI Studio. https://aistudio.google.com/apps
 
 ---
 
 ## 📸 Preview do Projeto
 
 ### Home
-![Home](./docs/images/home.png)
+![Home](https://github.com/JefersonManso/NovaEraSolutions/blob/main/Home.png)
 
 ### Sobre
-![Sobre](./docs/images/sobre.png)
+![Sobre](https://github.com/JefersonManso/NovaEraSolutions/blob/main/Sobre.png)
 
 ### Serviços
-![Serviços](./docs/images/servicos.png)
+![Serviços](https://github.com/JefersonManso/NovaEraSolutions/blob/main/Servicos.png)
 
-### Depoimentos
-![Depoimentos](./docs/images/depoimentos.png)
-
-### Contato
-![Contato](./docs/images/contato.png)
-
-> Substitua os arquivos acima pelas imagens reais do seu projeto.
 
 ---
 
@@ -197,8 +190,4 @@ Inclui:
 
 ## 🚀 Como Executar o Projeto
 
-### 1. Clonar o repositório
-
-```bash
-git clone https://seu-repositorio.git
-cd seu-projeto
+LINK do Projeto: https://ai.studio/apps/drive/1Br_WC8TSdmZr2SfJUF2RjVVebZ1cWVrj
