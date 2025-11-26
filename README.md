@@ -187,7 +187,3 @@ Inclui:
   Meta tags básicas e estrutura semântica
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-LINK do Projeto: https://ai.studio/apps/drive/1Br_WC8TSdmZr2SfJUF2RjVVebZ1cWVrj
